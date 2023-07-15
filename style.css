@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "teddy-bear";
+    src: url("fonts/teddy-bear.ttf");
+}
+@font-face {
+    font-family: "madelike";
+    src: url("fonts/madelikesscript.ttf");
+}
+@font-face {
+    font-family: "nexa";
+    src: url("fonts/nexa-script-thin.ttf");
+}
+body{
+    font-family: "teddy-bear", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+}
+
+h1{
+    color: brown;
+    font-family: "nexa", sans-serif;
+    font-size: 2rem;
+
+}
+
